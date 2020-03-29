@@ -16,5 +16,10 @@ namespace PoC.WinForLoggingPortSharp
         {
             InitializeComponent();
         }
+
+        private void btnWriteLog_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
